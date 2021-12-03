@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PratickMazumder
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Web Development
 - 📫 How to reach me : Instagram : @riz_official.07
 
 <!---
